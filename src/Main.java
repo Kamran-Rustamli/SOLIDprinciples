@@ -9,4 +9,5 @@ public class Main {
         account.withdraw(200);
         System.out.println("Hesabınızdan 200 AZN çıxarıldı. Yeni balans: " + account.getBalance());
     }
+
 }
