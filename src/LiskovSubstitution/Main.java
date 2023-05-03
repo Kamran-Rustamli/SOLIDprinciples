@@ -15,5 +15,6 @@ public class Main {
         Calculater squareArea = (int e, int f) -> a * a;
         System.out.println("SquareArea: " + (squareArea.calculate(a, a)));
 
+
     }
 }
